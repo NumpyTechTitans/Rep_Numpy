@@ -120,10 +120,7 @@ public class ArrayPage {
 
 	public void texteditorData(String textarea) throws InterruptedException {
 
-		//WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20) );
 		WebElement activeElement = driver.switchTo().activeElement();
-		//wait.until(ExpectedConditions.visibilityOfElementLocated(txtarea));
-		//Thread.sleep(3000);
 		Actions action = new Actions(driver);
 		action.moveToElement(activeElement).click().perform();
 		activeElement.sendKeys(textarea);
@@ -132,7 +129,6 @@ public class ArrayPage {
 	public void clear_texteditor() throws InterruptedException {
 		driver.findElement(txt_prq);
 		new Actions(driver).keyDown(Keys.CONTROL).sendKeys("a").keyUp(Keys.CONTROL).sendKeys(Keys.DELETE).perform();
-//		Thread.sleep(1000);
 	}
 
 	public void copyCode(String pycode) throws InterruptedException {
@@ -148,7 +144,6 @@ public class ArrayPage {
 				new Actions(driver).sendKeys(Keys.RETURN).perform();			
 			}
 		}
-		//Thread.sleep(3000);
 	}
 	public void explicitWait() {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(50) );

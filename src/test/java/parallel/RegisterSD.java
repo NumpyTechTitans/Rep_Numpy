@@ -145,38 +145,8 @@ public void the_user_enters_and_and_input_fields_with_different_values_in_passwo
 public void the_user_should_able_to_see_warning_message(String pwdmsg) {
 
 	rPage.pwdErrMsg();
-	//String expectedMsg="password_mismatch:The two password fields didn’t match.";
-	//Assert.assertEquals(pwdmsg, expectedMsg,"Passwords fields Mismatched");
 	System.out.println("Password mismatch Error Message :  "+pwdmsg);
-	//Assert.assertEquals(pwdmsg, expectedMsg,"Passwords fields Mismatched");
-	
     log.info("password_mismatch:The two password fields didn’t match.");
 		
+  }
 }
-
-
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

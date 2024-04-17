@@ -1,21 +1,15 @@
 package parallel;
-
-
-
 	import org.apache.logging.log4j.LogManager;
 	import org.apache.logging.log4j.Logger;
 	import org.openqa.selenium.WebDriver;
-
 	import com.qa.factory.DriverFactory;
 	import com.pages.DSHomePage;
 	import io.cucumber.java.en.Given;
 	import io.cucumber.java.en.Then;
 	import io.cucumber.java.en.When;
-
+	
 	public class DSHomeSD {
-		
 		WebDriver driver; 
-		//private BrowserPage openpage1 = new BrowserPage(DriverFactory.getDriver());
 		private DSHomePage DSPage= new DSHomePage(DriverFactory.getDriver()); 
 		Logger   log = (Logger) LogManager.getLogger("DSHomePage.java");
 		@Given("User is on the Data Structures Home Page")
@@ -28,14 +22,12 @@ package parallel;
 		public void user_clicks_the_data_structure_dropdown_arrow() {
 			System.out.println("datastructure");
 			DSPage.clickDropDown();
-		    
 		}
 
 		@Then("User should see the list of six options in the DS dropdown arrow")
 		public void user_should_see_the_list_of_six_options_in_the_ds_dropdown_arrow() {
 			System.out.println("datastructure");
 			DSPage.dropDownOptions();
-			
 		}
 
 		@When("User selects any DS item from dropdown without sign in")
@@ -62,8 +54,7 @@ package parallel;
 
 		@When("User clicks the Register link on DS Algo Intoduction Home page")
 		public void user_clicks_the_register_link_on_ds_algo_intoduction_home_page() {
-			
-			DSPage.clickRegisterLink();
+		DSPage.clickRegisterLink();
 		}
 
 		@Then("User should be redirected to Register page and see the Login link at the bottom of the page")
@@ -71,14 +62,10 @@ package parallel;
 			DSPage.registerPage();
 		}
 
-
 		@When("User clicks the SignIn link on DS Algo Intoduction Home page")
 		public void user_clicks_the_sign_in_link_on_ds_algo_intoduction_home_page() {
-			
 		   DSPage.clickSignInPage(); 	
-		
 		}
-
 		@Then("User should be redirected to SignIn page and User should see the Register link at the bottom of the page")
 		public void user_should_be_redirected_to_sign_in_page_and_user_should_see_the_register_link_at_the_bottom_of_the_page() {
 			System.out.println("datastructure"); 
