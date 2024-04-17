@@ -30,7 +30,6 @@ private WebDriver driver;
    public void passWord(String PWD) throws InterruptedException
    {
 	   driver.findElement(pwdTxtBox).sendKeys(PWD);
-	   //Thread.sleep(3000);
    }
    public void confirmPassword(String CPWD) throws InterruptedException {
 	   driver.findElement(pwdTxtBox2).sendKeys(CPWD);
