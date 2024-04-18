@@ -11,7 +11,7 @@ public class BrowserPageSteps {
 
 	private static String title;
 	private BrowserPage openpage = new BrowserPage(DriverFactory.getDriver());
-	Logger   log = (Logger) LogManager.getLogger("DSAlgoBrowserPageSD.java");
+	Logger   log = (Logger) LogManager.getLogger("BrowserPageSteps.java");
 
 	@When("User enters the DSAlgo portal URL")
 	public void user_enters_the_ds_algo_portal_url() {
@@ -41,15 +41,11 @@ public class BrowserPageSteps {
 		System.out.println("Page title is" +title);
 		log.info("User got the title");
 		Assert.assertEquals(expBrowserPageMsg, actualBrowserPageMsg);
-
-
 	}
 
 	@When("The user clicks the {string} button")
 	public void the_user_clicks_the_button(String getstartbtn) {
-
 		openpage.GetStartBtnListBrowserPage(0);
-
 	}
 
 	@Then("The user should land in Data Structure Introduction Page with {string} and {string} links")
@@ -57,7 +53,5 @@ public class BrowserPageSteps {
 		openpage.browserpagemsg();		
 		title = openpage.homepageTitle();
 		System.out.println("Home page Title is "+title);
-		
 	}
-
 }

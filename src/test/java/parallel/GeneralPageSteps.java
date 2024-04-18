@@ -18,14 +18,12 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class ArrayPageSteps {
+public class GeneralPageSteps {
 	private static String title;
 	private LoginPage Loginpage = new LoginPage (DriverFactory.getDriver());
 	private ArrayPage Arraypage;
-	
-	private static String arrayCodeFile = "C:\\MidhunaWork\\DSAlgo-Numpy Titans\\src\\test\\resources\\testdata\\Excel_Login_Pythoncode.xlsx";
-	
-	Logger   log = (Logger) LogManager.getLogger("ArrayPagesteps.java");
+	private static String arrayCodeFile = "src\\test\\resources\\config\\Excel_Login_Pythoncode.xlsx";
+	Logger   log = (Logger) LogManager.getLogger("GeneralPageSteps.java");
 
 	@Given("User has already Logged in")
 	public void user_has_already_logged_in(DataTable  dataTable) {
@@ -103,8 +101,6 @@ public class ArrayPageSteps {
 		log.info("There was no change in the Assesment page");
 	}
 
-	
-
 	@Then("The user should able to see an error message in alert window")
 	public void the_user_should_able_to_see_an_error_message_in_alert_window() {
 	   String expoutput = Arraypage.alertwin(); 
@@ -118,12 +114,9 @@ public class ArrayPageSteps {
 			ExcelReader reader = new ExcelReader();
 			List<Map<String,String>> testData = reader.getData(arrayCodeFile, SheetName);
 			Thread.sleep(2000);
-			//WebDriverWait wait=new WebDriverWait(driver, 20);
 			String testcode = testData.get(RNum).get("pythonCode");	
 			System.out.println(testcode);
-			//Arraypage.explicitWait();
 			Arraypage.texteditorData(testcode);
-			//Thread.sleep(1000);
 		}
 	
 	@When("The user write code in PracQn Editor from sheetname {string} and rownumber {int}")
@@ -158,6 +151,7 @@ public class ArrayPageSteps {
 	public void the_user_is_on_the_page(String expectedTitleName) {
 		DriverFactory.getDriver().get("https://dsportalapp.herokuapp.com/array/practice");
 		title = Arraypage.getPageTitle();
+		System.out.println(title+ "=" + expectedTitleName);
 		Assert.assertTrue(title.contains(expectedTitleName));
 		log.info("Home Page title are " + title + " and " + expectedTitleName );
 	}
@@ -165,7 +159,6 @@ public class ArrayPageSteps {
 	@When("User click on {string}")
 	public void user_click_on(String Arr_Topic) throws Exception {
 	    Arraypage.ClickTopic(Arr_Topic);
-	    
 	}
 
 	@Then("User should navigate to page that contains title {string}")
@@ -191,12 +184,10 @@ public class ArrayPageSteps {
 	public void user_click_back_button_and_navigate_to_url(String URL) {
 		DriverFactory.getDriver().navigate().back();
 		DriverFactory.getDriver().get(URL);
-		
 	}
 
 	@When("User click on Signout button")
 	public void user_click_on_signout_button() {
 		Arraypage.signoutBtn();
 	}
-
 }

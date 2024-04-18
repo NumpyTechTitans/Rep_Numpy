@@ -12,9 +12,11 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 		features = {"src/test/resources/parallel"},
         glue = { "parallel"},
         monochrome = true,
-        plugin = {"pretty","html:target/reportTT.html",
+        plugin = {"pretty",
+        		"html:target/report.html",
         		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
-        		"timeline:test-output-thread/","io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"})
+        		"timeline:test-output-thread/",
+        		"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"})
 		
 public class TestNGRunner extends AbstractTestNGCucumberTests {
     @BeforeTest
@@ -23,6 +25,7 @@ public class TestNGRunner extends AbstractTestNGCucumberTests {
 		ConfigReader.setBrowserType(browser);
 		System.out.println(browser);
 	}
+    
 	@Override
 	@DataProvider(parallel = true)
 	public Object[][] scenarios() {

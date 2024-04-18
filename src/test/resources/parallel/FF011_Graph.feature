@@ -9,7 +9,7 @@ Feature: Graph Functionality with login
     Then User should be on "Graph" page
 
   @RegressionTest
-  Scenario Outline: Try Editor validation for DS Intro with testcodes
+  Scenario Outline: Try Editor validation for Graph with testcodes
     Given User is on the "Graph" Home Page of URL "https://dsportalapp.herokuapp.com/graph/"
     When User click on '<Topic>'
     Then User should navigate to page that contains title '<Title>'
@@ -22,7 +22,7 @@ Feature: Graph Functionality with login
     When The user write code in Editor from sheetname '<SheetName>' and rownumber 1
     And Click the run button
     Then The user should able to see an error message in alert window
-    Then The user is on the "Assessment" Home Page
+    And The user is on the "Assessment" Home Page
     When User click back button and navigate to URL "https://dsportalapp.herokuapp.com/graph/graph-representations/"
     And User click on Signout button
     Then The user is on the "NumpyNinja" Home Page

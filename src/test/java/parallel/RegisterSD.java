@@ -18,7 +18,6 @@ import io.cucumber.java.en.When;
 public class RegisterSD {
 WebDriver driver;
 Logger log= (Logger)LogManager.getLogger("RegisterSD.java");
-//private RegisterPage rPage=new RegisterPage(DriverFactory.getDriver());
 private RegisterPage rPage= new RegisterPage(DriverFactory.getDriver());
 
 
@@ -61,8 +60,6 @@ public void user_clicks_the_register_button() {
 @Then("The validation message {string} appears below the input field.")
 public void the_validation_message_appears_below_the_input_field(String validmessage) {
 	rPage.validationMsg();
-	//String expectedValidationMsg="Please fill out this field.";
-	//Assert.assertTrue(expectedValidationMsg.contains(validmessage));
 	System.out.println("validation message :"+validmessage);	
 	log.info("Validation message :"+validmessage);
 }
@@ -87,13 +84,10 @@ public void the_user_enters_and_and_input_fields_with_missing_values(String UN, 
 	} catch (InterruptedException e) {
 		e.printStackTrace();
 	}
-
-
 }
 
 @When("The user enters {string} and {string} and {string} input fields with invalid values")
 public void the_user_enters_and_and_input_fields_with_invalid_values(String UN, String PWD, String CPWD) {
-
 	try {
 		rPage.userName(UN);
 		Thread.sleep(1000);
@@ -112,15 +106,10 @@ public void the_user_enters_and_and_input_fields_with_invalid_values(String UN, 
 	} catch (InterruptedException e) {
 		e.printStackTrace();
 	}
-
-
 }
-
 
 @When("The user enters {string} and {string} and {string} input fields with different values in password and confirm password textfields")
 public void the_user_enters_and_and_input_fields_with_different_values_in_password_and_confirm_password_textfields(String UN, String PWD, String CPWD) {
-
-	
 	try {
 		rPage.userName(UN);
 		Thread.sleep(1000);
@@ -139,14 +128,12 @@ public void the_user_enters_and_and_input_fields_with_different_values_in_passwo
 	} catch (InterruptedException e) {
 		e.printStackTrace();
 	}
-
 }
+
 @Then("The user should able to see warning message {string}")
 public void the_user_should_able_to_see_warning_message(String pwdmsg) {
-
 	rPage.pwdErrMsg();
 	System.out.println("Password mismatch Error Message :  "+pwdmsg);
     log.info("password_mismatch:The two password fields didn’t match.");
-		
   }
 }

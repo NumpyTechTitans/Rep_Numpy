@@ -7,9 +7,9 @@ Feature: Linkedlist Functionality with login
     Given The user is on the "NumpyNinja" Home Page
     When User clicks on Get Started button index 2
     Then User should be on "Linked List" page
-  
+
   @RegressionTest
-  Scenario Outline: Try Editor validation for DS Intro with testcodes
+  Scenario Outline: Try Editor validation for Linkedlist with testcodes
     Given User is on the "Linked List" Home Page of URL "https://dsportalapp.herokuapp.com/linked-list/"
     When User click on '<Topic>'
     Then User should navigate to page that contains title '<Title>'
@@ -22,7 +22,7 @@ Feature: Linkedlist Functionality with login
     When The user write code in Editor from sheetname '<SheetName>' and rownumber 1
     And Click the run button
     Then The user should able to see an error message in alert window
-    Then The user is on the "Assessment" Home Page
+    And The user is on the "Assessment" Home Page
 
     Examples: 
       | Topic                           | Title                           | Try Here | SheetName  |

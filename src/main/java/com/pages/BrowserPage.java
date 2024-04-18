@@ -1,14 +1,13 @@
 package com.pages;
 
 import java.util.List;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 public class BrowserPage {
-
 	private WebDriver driver;
+
 	// By locators
 	By message = By.xpath("//p[contains(text(),'You are at the right place')]");
 	By message1 = By.xpath("//a[text()='NumpyNinja']");
@@ -24,32 +23,27 @@ public class BrowserPage {
 
 	public void OpenTheBrowserURL() {
 		System.out.println("User enters the DSAlgo portal URL");
-
 	}
+
 	public void BrowserURL() {
 		driver.get("https://dsportalapp.herokuapp.com");
-
 	}
-	public String BrowserpageTitle() {
 
+	public String BrowserpageTitle() {
 		return driver.getTitle();
 	}
 
 	public String browserPagemsg() {
-		System.out.println("The DSAlgo page opens");
 		String msg = driver.findElement(message).getText();
-		System.out.println("Browser page message " + msg);
 		return msg;
 	}
 
 	public void GetStartBtnListBrowserPage(int index) {
 		List<WebElement> getbtnList = driver.findElements(getStartedBtn);
-		System.out.println("Length of get started button: " + getbtnList.size());
 		getbtnList.get(index).click();
 	}
 
-		public void browserpagemsg() {
-
+	public void browserpagemsg() {
 		WebElement linkRegister = driver.findElement(reglink);
 		System.out.println("Verify the Registe Link : " + linkRegister.getText());
 		WebElement linkSignIn = driver.findElement(signinlink);
@@ -57,9 +51,7 @@ public class BrowserPage {
 	}
 
 	public String homepageTitle() {
-
 		String homePTitle = driver.getTitle();
-		System.out.println("Home Page" + homePTitle);
 		return homePTitle;
 	}
 }

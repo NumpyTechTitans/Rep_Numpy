@@ -30,18 +30,11 @@ Feature: SignIn Page Functionality
     Then User should see alert message "<Alert_Message>"
 
     Examples: 
-      | Username | Password | Alert_Message              |
-      |          |          | Please fill out this field |
-      | SDET152  |          | Please fill out this field |
-      |          | Team@004 | Please fill out this field |
-
-  Scenario Outline: Login Page Validation with Invaid input1
-    When User enters username "<Username>" and password "<Password>"
-    And User Click on Login button
-    Then User should see Error message "<Error_Message>"
-
-    Examples: 
-      | Username | Password | Error_Message                 |
+      | Username | Password | Alert_Message                 |
+      |          |          | Please fill out this field    |
+      | SDET152  |          | Please fill out this field    |
+      |          | Team@004 | Please fill out this field    |
       | abc@123  | abc123   | Invalid Username and Password |
       | SDET152  | Team@222 | Invalid Username and Password |
       | ema      | Team@004 | Invalid Username and Password |
+  

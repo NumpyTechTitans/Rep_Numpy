@@ -33,7 +33,6 @@ public class LoginPage {
 	public void enterpwd(String pwd) {
 		System.out.println("Password : " + pwd);
 		driver.findElement(password).sendKeys(pwd);
-
 	}
 
 	public void clickonLogin() {
@@ -76,5 +75,4 @@ public class LoginPage {
 		System.out.println("Logged in with username :" + un + " & password: " + pwd);
 		return new ArrayPage(driver);
 	}
-
 }

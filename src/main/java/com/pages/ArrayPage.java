@@ -12,7 +12,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 
 public class ArrayPage {
-
 	private WebDriver driver;
 
 	// 1.By Locators
@@ -38,7 +37,6 @@ public class ArrayPage {
 		return driver.getTitle();
 	}
 	
-
 	public void ArrayPageURL() {
 		driver.get("https://dsportalapp.herokuapp.com/home");
 	}
@@ -72,14 +70,11 @@ public class ArrayPage {
 
 		List<WebElement> Topic = driver.findElements(By.linkText(topic2));
 		Topic.get(0).click();
-
 	}
 
 	public void ClickTopic1(String topic2) throws Exception {
-
 		List<WebElement> Topic = driver.findElements(By.linkText(topic2));
 		Topic.get(0).click();
-
 	}
 
 	public void ArrayinPython() {
@@ -150,9 +145,6 @@ public class ArrayPage {
 		wait.until(ExpectedConditions.visibilityOfElementLocated(txtarea));
 	}
 }
-			
-
-		
 		
 		
 	

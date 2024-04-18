@@ -19,13 +19,11 @@ private WebDriver driver;
 		this.driver = driver;
 	}
 	public void registerPageUrl() {
-		
 		driver.get("https://dsportalapp.herokuapp.com/register");
 	}
    public void userName(String UN) throws InterruptedException
    {
 	   driver.findElement(usernameTxtBox).sendKeys(UN);
-	   
    }
    public void passWord(String PWD) throws InterruptedException
    {
@@ -35,7 +33,6 @@ private WebDriver driver;
 	   driver.findElement(pwdTxtBox2).sendKeys(CPWD);
    }
    public String validationMsg()
-   
    {
 	   WebElement activeElement = driver.switchTo().activeElement();
 	   String messageStr = activeElement.getAttribute("validationMessage");
