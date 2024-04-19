@@ -1315,3 +1315,1239 @@
 23:07:58.841 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
 23:08:00.398 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
 23:08:01.057 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+23:34:29.038 [TestNG-PoolService-2] INFO  - User got the title
+23:34:29.340 [TestNG-PoolService-1] INFO  - User got the title
+23:34:30.084 [TestNG-PoolService-4] INFO  - User clicks on any of the get started buttons
+23:34:30.432 [TestNG-PoolService-3] INFO  - User clicks on any dropwon item list
+23:34:34.558 [TestNG-PoolService-4] INFO  - register page is opened
+23:34:34.667 [TestNG-PoolService-6] INFO  - register page is opened
+23:34:35.038 [TestNG-PoolService-6] INFO  - User enters the input fields
+23:34:35.080 [TestNG-PoolService-4] INFO  - User enters the input fields
+23:34:35.081 [TestNG-PoolService-3] INFO  - register page is opened
+23:34:35.272 [TestNG-PoolService-6] INFO  - Validation message :Please fill out this field.
+23:34:35.276 [TestNG-PoolService-4] INFO  - Validation message :Please fill out this field.
+23:34:35.643 [TestNG-PoolService-3] INFO  - User enters the input fields
+23:34:35.683 [TestNG-PoolService-2] INFO  - register page is opened
+23:34:35.789 [TestNG-PoolService-3] INFO  - Validation message :Please fill out this field.
+23:34:36.838 [TestNG-PoolService-5] INFO  - register page is opened
+23:34:37.123 [TestNG-PoolService-1] INFO  - register page is opened
+23:34:37.258 [TestNG-PoolService-5] INFO  - User enters the input fields
+23:34:37.458 [TestNG-PoolService-5] INFO  - Validation message :Please fill out this field.
+23:34:39.366 [TestNG-PoolService-6] INFO  - register page is opened
+23:34:40.055 [TestNG-PoolService-3] INFO  - Navigated to the Login Page
+23:34:40.573 [TestNG-PoolService-3] INFO  - User got the Url title
+23:34:41.023 [TestNG-PoolService-1] INFO  - password_mismatch:The two password fields didn’t match.
+23:34:41.099 [TestNG-PoolService-4] INFO  - Navigated to the Login Page
+23:34:41.113 [TestNG-PoolService-4] INFO  - User got the Url title
+23:34:41.264 [TestNG-PoolService-5] INFO  - Navigated to the Login Page
+23:34:41.278 [TestNG-PoolService-2] INFO  - password_mismatch:The two password fields didn’t match.
+23:34:43.179 [TestNG-PoolService-6] INFO  - password_mismatch:The two password fields didn’t match.
+23:34:43.607 [TestNG-PoolService-3] INFO  - Navigated to the Login Page
+23:34:44.610 [TestNG-PoolService-1] INFO  - Navigated to the Login Page
+23:34:44.862 [TestNG-PoolService-5] INFO  - Navigated to the Login Page
+23:34:45.215 [TestNG-PoolService-4] INFO  - Navigated to the Login Page
+23:34:46.688 [TestNG-PoolService-2] INFO  - Navigated to the Login Page
+23:34:48.104 [TestNG-PoolService-3] INFO  - Navigated to the Login Page
+23:34:49.847 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+23:34:50.144 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+23:34:50.390 [TestNG-PoolService-6] INFO  - User was able to see Data Structures-Introduction page
+23:34:50.405 [TestNG-PoolService-1] INFO  - User clicked on Data Structures dropdown
+23:34:50.406 [TestNG-PoolService-1] INFO  - User should be able to see six options
+23:34:50.535 [TestNG-PoolService-6] INFO  - Home Page title are Data Structures-Introduction and Data Structures-Introduction
+23:34:50.787 [TestNG-PoolService-1] INFO  - User has Selected Arrays option
+23:34:50.871 [TestNG-PoolService-1] INFO  - User was able to see Array page
+23:34:50.970 [TestNG-PoolService-6] INFO  - User was able to see Time Complexity page
+23:34:51.253 [TestNG-PoolService-1] INFO  - Home Page title are Arrays in Python and Arrays in Python
+23:34:51.639 [TestNG-PoolService-1] INFO  - User was able to see Arrays in Python page
+23:34:52.020 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+23:34:52.058 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:34:52.066 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+23:34:52.625 [TestNG-PoolService-4] INFO  - User clicked on Data Structures dropdown
+23:34:52.627 [TestNG-PoolService-4] INFO  - User should be able to see six options
+23:34:52.669 [TestNG-PoolService-2] INFO  - User clicked on Data Structures dropdown
+23:34:52.670 [TestNG-PoolService-2] INFO  - User should be able to see six options
+23:34:53.181 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:34:53.222 [TestNG-PoolService-4] INFO  - User has Selected Arrays option
+23:34:53.227 [TestNG-PoolService-2] INFO  - User has Selected Arrays option
+23:34:53.240 [TestNG-PoolService-4] INFO  - User was able to see Array page
+23:34:53.242 [TestNG-PoolService-2] INFO  - User was able to see Array page
+23:34:53.566 [TestNG-PoolService-2] INFO  - Home Page title are Arrays in Python and Arrays in Python
+23:34:53.874 [TestNG-PoolService-2] INFO  - User was able to see Basic Operations in Lists page
+23:34:53.973 [TestNG-PoolService-4] INFO  - Home Page title are Arrays in Python and Arrays in Python
+23:34:54.284 [TestNG-PoolService-4] INFO  - User was able to see Arrays Using List page
+23:34:54.866 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+23:34:55.268 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+23:34:55.302 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+23:34:55.449 [TestNG-PoolService-5] INFO  - User clicked on Data Structures dropdown
+23:34:55.449 [TestNG-PoolService-5] INFO  - User should be able to see six options
+23:34:55.599 [TestNG-PoolService-3] INFO  - User clicked on Data Structures dropdown
+23:34:55.599 [TestNG-PoolService-3] INFO  - User should be able to see six options
+23:34:55.707 [TestNG-PoolService-5] INFO  - User has Selected Arrays option
+23:34:55.722 [TestNG-PoolService-5] INFO  - User was able to see Array page
+23:34:55.864 [TestNG-PoolService-3] INFO  - User has Selected Arrays option
+23:34:55.883 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:34:55.884 [TestNG-PoolService-3] INFO  - User was able to see Array page
+23:34:55.893 [TestNG-PoolService-5] INFO  - Home Page title are Practice Questions and Practice Questions
+23:34:56.084 [TestNG-PoolService-3] INFO  - Home Page title are Arrays in Python and Arrays in Python
+23:34:56.297 [TestNG-PoolService-3] INFO  - User was able to see Applications of Array page
+23:34:57.055 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:34:57.640 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:34:57.732 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:34:57.807 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+23:34:58.839 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:34:59.907 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:35:00.533 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+23:35:00.702 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:35:00.893 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:35:01.883 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:35:01.988 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+23:35:02.223 [TestNG-PoolService-5] INFO  - User clicked on Data Structures dropdown
+23:35:02.223 [TestNG-PoolService-5] INFO  - User should be able to see six options
+23:35:02.620 [TestNG-PoolService-5] INFO  - User has Selected Arrays option
+23:35:02.681 [TestNG-PoolService-5] INFO  - User was able to see Array page
+23:35:02.889 [TestNG-PoolService-5] INFO  - Home Page title are Practice Questions and Practice Questions
+23:35:03.448 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:35:06.107 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+23:35:06.330 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+23:35:06.580 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+23:35:06.655 [TestNG-PoolService-2] INFO  - User clicked on Data Structures dropdown
+23:35:06.656 [TestNG-PoolService-2] INFO  - User should be able to see six options
+23:35:06.750 [TestNG-PoolService-6] INFO  - User was able to see Linked List page
+23:35:06.821 [TestNG-PoolService-1] INFO  - User clicked on Data Structures dropdown
+23:35:06.822 [TestNG-PoolService-1] INFO  - User should be able to see six options
+23:35:06.887 [TestNG-PoolService-6] INFO  - Home Page title are Linked List and Linked List
+23:35:07.006 [TestNG-PoolService-2] INFO  - User has Selected Arrays option
+23:35:07.036 [TestNG-PoolService-2] INFO  - User was able to see Array page
+23:35:07.124 [TestNG-PoolService-1] INFO  - User has Selected Arrays option
+23:35:07.171 [TestNG-PoolService-1] INFO  - User was able to see Array page
+23:35:07.246 [TestNG-PoolService-2] INFO  - Home Page title are Practice Questions and Practice Questions
+23:35:07.251 [TestNG-PoolService-6] INFO  - User was able to see Introduction page
+23:35:07.435 [TestNG-PoolService-1] INFO  - Home Page title are Practice Questions and Practice Questions
+23:35:08.411 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:35:08.815 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+23:35:08.823 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+23:35:09.398 [TestNG-PoolService-3] INFO  - User was able to see Linked List page
+23:35:09.410 [TestNG-PoolService-4] INFO  - User was able to see Linked List page
+23:35:09.539 [TestNG-PoolService-3] INFO  - Home Page title are Linked List and Linked List
+23:35:09.554 [TestNG-PoolService-4] INFO  - Home Page title are Linked List and Linked List
+23:35:09.932 [TestNG-PoolService-4] INFO  - User was able to see Creating Linked LIst page
+23:35:09.936 [TestNG-PoolService-3] INFO  - User was able to see Types of Linked List page
+23:35:10.683 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+23:35:10.922 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:35:11.441 [TestNG-PoolService-5] INFO  - User was able to see Linked List page
+23:35:11.791 [TestNG-PoolService-5] INFO  - Home Page title are Linked List and Linked List
+23:35:11.823 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:35:12.082 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:35:12.218 [TestNG-PoolService-5] INFO  - User was able to see Implement Linked List in Python page
+23:35:13.361 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+23:35:13.614 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:35:14.441 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:35:14.472 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+23:35:14.475 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+23:35:14.868 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:35:14.958 [TestNG-PoolService-1] INFO  - User was able to see Linked List page
+23:35:14.966 [TestNG-PoolService-2] INFO  - User was able to see Linked List page
+23:35:15.075 [TestNG-PoolService-1] INFO  - Home Page title are Linked List and Linked List
+23:35:15.085 [TestNG-PoolService-2] INFO  - Home Page title are Linked List and Linked List
+23:35:15.328 [TestNG-PoolService-1] INFO  - User was able to see Traversal page
+23:35:15.352 [TestNG-PoolService-2] INFO  - User was able to see Insertion page
+23:35:16.010 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+23:35:16.268 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:35:16.282 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+23:35:16.359 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:35:17.155 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:35:18.687 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+23:35:19.523 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:35:19.523 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+23:35:19.806 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+23:35:20.320 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+23:35:20.378 [TestNG-PoolService-6] INFO  - User was able to see Linked List page
+23:35:20.679 [TestNG-PoolService-6] INFO  - Home Page title are Linked List and Linked List
+23:35:20.924 [TestNG-PoolService-3] INFO  - User was able to see Stack page
+23:35:21.055 [TestNG-PoolService-3] INFO  - Home Page title are Stack and Stack
+23:35:21.271 [TestNG-PoolService-6] INFO  - User was able to see Deletion page
+23:35:21.405 [TestNG-PoolService-3] INFO  - User was able to see Operations in Stack page
+23:35:21.633 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+23:35:22.092 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:35:22.104 [TestNG-PoolService-4] INFO  - User was able to see Stack page
+23:35:22.207 [TestNG-PoolService-4] INFO  - Home Page title are Stack and Stack
+23:35:22.224 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:35:22.256 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+23:35:22.512 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:35:22.557 [TestNG-PoolService-4] INFO  - User was able to see Implementation page
+23:35:23.331 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+23:35:23.557 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:35:23.818 [TestNG-PoolService-5] INFO  - User was able to see Stack page
+23:35:23.916 [TestNG-PoolService-5] INFO  - Home Page title are Stack and Stack
+23:35:24.596 [TestNG-PoolService-5] INFO  - User was able to see Applications page
+23:35:24.872 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:35:25.376 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+23:35:25.396 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:35:26.647 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:35:27.082 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+23:35:27.139 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+23:35:27.492 [TestNG-PoolService-2] INFO  - User was able to see Queue page
+23:35:27.540 [TestNG-PoolService-1] INFO  - User was able to see Queue page
+23:35:27.605 [TestNG-PoolService-2] INFO  - Home Page title are Queue and Queue
+23:35:27.648 [TestNG-PoolService-1] INFO  - Home Page title are Queue and Queue
+23:35:27.707 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:35:27.910 [TestNG-PoolService-2] INFO  - User was able to see Implementation using collections.deque page
+23:35:27.972 [TestNG-PoolService-1] INFO  - User was able to see Implementation of Queue in Python page
+23:35:28.099 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:35:28.203 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+23:35:28.758 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+23:35:28.891 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:35:29.704 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:35:30.874 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+23:35:31.701 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+23:35:31.722 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:35:32.073 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+23:35:32.370 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+23:35:32.449 [TestNG-PoolService-3] INFO  - User was able to see Queue page
+23:35:32.583 [TestNG-PoolService-3] INFO  - Home Page title are Queue and Queue
+23:35:32.891 [TestNG-PoolService-6] INFO  - User was able to see Queue page
+23:35:32.904 [TestNG-PoolService-3] INFO  - User was able to see Implementation using array page
+23:35:33.094 [TestNG-PoolService-6] INFO  - Home Page title are Queue and Queue
+23:35:33.456 [TestNG-PoolService-6] INFO  - User was able to see Queue Operations page
+23:35:33.731 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+23:35:33.833 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:35:34.171 [TestNG-PoolService-4] INFO  - User was able to see Tree page
+23:35:34.304 [TestNG-PoolService-4] INFO  - Home Page title are Tree and Tree
+23:35:34.399 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+23:35:34.442 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:35:34.710 [TestNG-PoolService-4] INFO  - User was able to see Overview of Trees page
+23:35:34.758 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:35:35.683 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+23:35:36.166 [TestNG-PoolService-5] INFO  - User was able to see Tree page
+23:35:36.302 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:35:36.339 [TestNG-PoolService-5] INFO  - Home Page title are Tree and Tree
+23:35:36.690 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:35:36.740 [TestNG-PoolService-5] INFO  - User was able to see Terminologies page
+23:35:37.404 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:35:37.589 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+23:35:38.373 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+23:35:38.411 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+23:35:38.763 [TestNG-PoolService-2] INFO  - User was able to see Tree page
+23:35:38.805 [TestNG-PoolService-1] INFO  - User was able to see Tree page
+23:35:38.858 [TestNG-PoolService-2] INFO  - Home Page title are Tree and Tree
+23:35:38.917 [TestNG-PoolService-1] INFO  - Home Page title are Tree and Tree
+23:35:39.023 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:35:39.134 [TestNG-PoolService-2] INFO  - User was able to see Types of Trees page
+23:35:39.174 [TestNG-PoolService-1] INFO  - User was able to see Tree Traversals page
+23:35:39.481 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:35:40.065 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:35:40.070 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:35:40.115 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+23:35:40.410 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+23:35:41.857 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:35:42.788 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:35:42.868 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+23:35:43.473 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+23:35:43.648 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+23:35:43.973 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+23:35:44.166 [TestNG-PoolService-3] INFO  - User was able to see Tree page
+23:35:44.431 [TestNG-PoolService-6] INFO  - User was able to see Tree page
+23:35:44.604 [TestNG-PoolService-6] INFO  - Home Page title are Tree and Tree
+23:35:44.867 [TestNG-PoolService-3] INFO  - Home Page title are Tree and Tree
+23:35:45.005 [TestNG-PoolService-6] INFO  - User was able to see Binary Trees page
+23:35:45.295 [TestNG-PoolService-3] INFO  - User was able to see Traversals-Illustration page
+23:35:45.754 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:35:45.948 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+23:35:46.039 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+23:35:46.249 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:35:46.791 [TestNG-PoolService-4] INFO  - User was able to see Tree page
+23:35:46.835 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:35:46.959 [TestNG-PoolService-4] INFO  - Home Page title are Tree and Tree
+23:35:47.587 [TestNG-PoolService-4] INFO  - User was able to see Types of Binary Trees page
+23:35:47.765 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+23:35:48.566 [TestNG-PoolService-5] INFO  - User was able to see Tree page
+23:35:48.749 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:35:48.890 [TestNG-PoolService-5] INFO  - Home Page title are Tree and Tree
+23:35:49.242 [TestNG-PoolService-5] INFO  - User was able to see Implementation in Python page
+23:35:49.516 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:35:49.584 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:35:49.989 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+23:35:50.367 [TestNG-PoolService-1] INFO  - User was able to see Tree page
+23:35:50.399 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+23:35:50.463 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+23:35:50.477 [TestNG-PoolService-1] INFO  - Home Page title are Tree and Tree
+23:35:50.855 [TestNG-PoolService-2] INFO  - User was able to see Tree page
+23:35:50.886 [TestNG-PoolService-1] INFO  - User was able to see Binary Tree Traversals page
+23:35:51.080 [TestNG-PoolService-2] INFO  - Home Page title are Tree and Tree
+23:35:51.342 [TestNG-PoolService-2] INFO  - User was able to see Implementation of Binary Trees page
+23:35:51.433 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:35:51.774 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:35:52.134 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:35:52.235 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:35:52.396 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+23:35:53.042 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+23:35:54.130 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:35:54.547 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:35:55.298 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+23:35:55.930 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+23:35:55.946 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+23:35:56.506 [TestNG-PoolService-6] INFO  - User was able to see Tree page
+23:35:56.667 [TestNG-PoolService-6] INFO  - Home Page title are Tree and Tree
+23:35:56.699 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+23:35:56.949 [TestNG-PoolService-6] INFO  - User was able to see Applications of Binary trees page
+23:35:57.290 [TestNG-PoolService-3] INFO  - User was able to see Tree page
+23:35:57.551 [TestNG-PoolService-3] INFO  - Home Page title are Tree and Tree
+23:35:57.606 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:35:57.982 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:35:58.069 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+23:35:58.302 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+23:35:58.380 [TestNG-PoolService-3] INFO  - User was able to see Binary Search Trees page
+23:35:58.935 [TestNG-PoolService-4] INFO  - User was able to see Tree page
+23:35:59.084 [TestNG-PoolService-4] INFO  - Home Page title are Tree and Tree
+23:35:59.551 [TestNG-PoolService-4] INFO  - User was able to see Implementation Of BST page
+23:35:59.702 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:36:00.010 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+23:36:00.377 [TestNG-PoolService-5] INFO  - User was able to see Graph page
+23:36:00.388 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:36:00.489 [TestNG-PoolService-5] INFO  - Home Page title are Graph and Graph
+23:36:00.701 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:36:00.713 [TestNG-PoolService-5] INFO  - User was able to see Graph page
+23:36:01.470 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+23:36:01.799 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+23:36:02.115 [TestNG-PoolService-1] INFO  - User was able to see Graph page
+23:36:02.244 [TestNG-PoolService-1] INFO  - Home Page title are Graph and Graph
+23:36:02.422 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:36:02.700 [TestNG-PoolService-1] INFO  - User was able to see Graph Representations page
+23:36:02.987 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:36:03.322 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+23:36:03.925 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:36:04.136 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+23:36:04.909 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+23:36:05.504 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+23:36:06.531 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:36:06.886 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+23:36:07.712 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+23:36:09.040 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+23:36:09.647 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+00:41:24.990 [TestNG-PoolService-4] INFO  - User clicks on any of the get started buttons
+00:41:24.995 [TestNG-PoolService-2] INFO  - User got the title
+00:41:25.135 [TestNG-PoolService-1] INFO  - User got the title
+00:41:25.980 [TestNG-PoolService-3] INFO  - User clicks on any dropwon item list
+00:41:33.547 [TestNG-PoolService-4] INFO  - register page is opened
+00:41:33.975 [TestNG-PoolService-6] INFO  - register page is opened
+00:41:34.102 [TestNG-PoolService-3] INFO  - register page is opened
+00:41:34.137 [TestNG-PoolService-5] INFO  - register page is opened
+00:41:34.208 [TestNG-PoolService-2] INFO  - register page is opened
+00:41:34.267 [TestNG-PoolService-1] INFO  - register page is opened
+00:41:34.382 [TestNG-PoolService-4] INFO  - User enters the input fields
+00:41:34.618 [TestNG-PoolService-2] INFO  - User enters the input fields
+00:41:34.620 [TestNG-PoolService-6] INFO  - User enters the input fields
+00:41:34.638 [TestNG-PoolService-1] INFO  - User enters the input fields
+00:41:34.735 [TestNG-PoolService-4] INFO  - Validation message :Please fill out this field.
+00:41:34.919 [TestNG-PoolService-2] INFO  - Validation message :Please fill out this field.
+00:41:34.954 [TestNG-PoolService-6] INFO  - Validation message :Please fill out this field.
+00:41:35.030 [TestNG-PoolService-1] INFO  - Validation message :Please fill out this field.
+00:41:38.040 [TestNG-PoolService-5] INFO  - password_mismatch:The two password fields didn’t match.
+00:41:38.040 [TestNG-PoolService-3] INFO  - password_mismatch:The two password fields didn’t match.
+00:41:41.807 [TestNG-PoolService-4] INFO  - register page is opened
+00:41:42.176 [TestNG-PoolService-6] INFO  - Navigated to the Login Page
+00:41:42.290 [TestNG-PoolService-1] INFO  - Navigated to the Login Page
+00:41:42.560 [TestNG-PoolService-2] INFO  - Navigated to the Login Page
+00:41:44.425 [TestNG-PoolService-5] INFO  - Navigated to the Login Page
+00:41:44.428 [TestNG-PoolService-1] INFO  - User got the Url title
+00:41:44.487 [TestNG-PoolService-6] INFO  - User got the Url title
+00:41:45.840 [TestNG-PoolService-3] INFO  - Navigated to the Login Page
+00:41:46.384 [TestNG-PoolService-4] INFO  - password_mismatch:The two password fields didn’t match.
+00:41:48.591 [TestNG-PoolService-6] INFO  - Navigated to the Login Page
+00:41:49.813 [TestNG-PoolService-2] INFO  - Navigated to the Login Page
+00:41:49.952 [TestNG-PoolService-1] INFO  - Navigated to the Login Page
+00:41:50.413 [TestNG-PoolService-5] INFO  - Navigated to the Login Page
+00:41:53.320 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+00:41:54.371 [TestNG-PoolService-3] INFO  - User was able to see Data Structures-Introduction page
+00:41:54.675 [TestNG-PoolService-3] INFO  - Home Page title are Data Structures-Introduction and Data Structures-Introduction
+00:41:55.168 [TestNG-PoolService-3] INFO  - User was able to see Time Complexity page
+00:41:55.453 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+00:41:56.185 [TestNG-PoolService-4] INFO  - User clicked on Data Structures dropdown
+00:41:56.186 [TestNG-PoolService-4] INFO  - User should be able to see six options
+00:41:56.888 [TestNG-PoolService-4] INFO  - User has Selected Arrays option
+00:41:56.969 [TestNG-PoolService-4] INFO  - User was able to see Array page
+00:41:56.983 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+00:41:57.391 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+00:41:57.478 [TestNG-PoolService-4] INFO  - Home Page title are Arrays in Python and Arrays in Python
+00:41:57.534 [TestNG-PoolService-2] INFO  - User clicked on Data Structures dropdown
+00:41:57.534 [TestNG-PoolService-2] INFO  - User should be able to see six options
+00:41:57.755 [TestNG-PoolService-6] INFO  - User clicked on Data Structures dropdown
+00:41:57.756 [TestNG-PoolService-6] INFO  - User should be able to see six options
+00:41:57.865 [TestNG-PoolService-4] INFO  - User was able to see Arrays in Python page
+00:41:58.172 [TestNG-PoolService-2] INFO  - User has Selected Arrays option
+00:41:58.205 [TestNG-PoolService-2] INFO  - User was able to see Array page
+00:41:58.285 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:41:58.452 [TestNG-PoolService-6] INFO  - User has Selected Arrays option
+00:41:58.505 [TestNG-PoolService-6] INFO  - User was able to see Array page
+00:41:58.636 [TestNG-PoolService-2] INFO  - Home Page title are Arrays in Python and Arrays in Python
+00:41:58.935 [TestNG-PoolService-6] INFO  - Home Page title are Arrays in Python and Arrays in Python
+00:41:59.107 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:41:59.111 [TestNG-PoolService-2] INFO  - User was able to see Arrays Using List page
+00:41:59.235 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+00:41:59.518 [TestNG-PoolService-6] INFO  - User was able to see Basic Operations in Lists page
+00:41:59.602 [TestNG-PoolService-1] INFO  - User clicked on Data Structures dropdown
+00:41:59.606 [TestNG-PoolService-1] INFO  - User should be able to see six options
+00:42:00.212 [TestNG-PoolService-1] INFO  - User has Selected Arrays option
+00:42:00.238 [TestNG-PoolService-1] INFO  - User was able to see Array page
+00:42:00.632 [TestNG-PoolService-1] INFO  - Home Page title are Arrays in Python and Arrays in Python
+00:42:00.851 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+00:42:00.883 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:42:01.086 [TestNG-PoolService-1] INFO  - User was able to see Applications of Array page
+00:42:01.200 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+00:42:01.229 [TestNG-PoolService-5] INFO  - User clicked on Data Structures dropdown
+00:42:01.230 [TestNG-PoolService-5] INFO  - User should be able to see six options
+00:42:01.610 [TestNG-PoolService-5] INFO  - User has Selected Arrays option
+00:42:01.635 [TestNG-PoolService-5] INFO  - User was able to see Array page
+00:42:01.821 [TestNG-PoolService-5] INFO  - Home Page title are Practice Questions and Practice Questions
+00:42:02.589 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:42:04.684 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+00:42:04.684 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:42:04.685 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:42:04.707 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:42:05.552 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:42:07.535 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+00:42:07.718 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:42:07.771 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:42:08.027 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:42:08.597 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:42:11.929 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+00:42:12.092 [TestNG-PoolService-5] INFO  - User clicked on Data Structures dropdown
+00:42:12.092 [TestNG-PoolService-5] INFO  - User should be able to see six options
+00:42:12.448 [TestNG-PoolService-5] INFO  - User has Selected Arrays option
+00:42:12.534 [TestNG-PoolService-5] INFO  - User was able to see Array page
+00:42:12.868 [TestNG-PoolService-5] INFO  - Home Page title are Practice Questions and Practice Questions
+00:42:16.400 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+00:42:16.457 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+00:42:16.647 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+00:42:17.220 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+00:42:17.352 [TestNG-PoolService-2] INFO  - User clicked on Data Structures dropdown
+00:42:17.354 [TestNG-PoolService-2] INFO  - User should be able to see six options
+00:42:17.727 [TestNG-PoolService-4] INFO  - User was able to see Linked List page
+00:42:17.785 [TestNG-PoolService-6] INFO  - User clicked on Data Structures dropdown
+00:42:17.785 [TestNG-PoolService-6] INFO  - User should be able to see six options
+00:42:17.887 [TestNG-PoolService-2] INFO  - User has Selected Arrays option
+00:42:18.044 [TestNG-PoolService-1] INFO  - User was able to see Linked List page
+00:42:18.052 [TestNG-PoolService-2] INFO  - User was able to see Array page
+00:42:18.088 [TestNG-PoolService-4] INFO  - Home Page title are Linked List and Linked List
+00:42:18.208 [TestNG-PoolService-1] INFO  - Home Page title are Linked List and Linked List
+00:42:18.331 [TestNG-PoolService-2] INFO  - Home Page title are Practice Questions and Practice Questions
+00:42:18.477 [TestNG-PoolService-6] INFO  - User has Selected Arrays option
+00:42:18.499 [TestNG-PoolService-6] INFO  - User was able to see Array page
+00:42:18.663 [TestNG-PoolService-4] INFO  - User was able to see Introduction page
+00:42:18.906 [TestNG-PoolService-6] INFO  - Home Page title are Practice Questions and Practice Questions
+00:42:18.916 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+00:42:18.928 [TestNG-PoolService-1] INFO  - User was able to see Creating Linked LIst page
+00:42:19.812 [TestNG-PoolService-3] INFO  - User was able to see Linked List page
+00:42:19.973 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:42:20.168 [TestNG-PoolService-3] INFO  - Home Page title are Linked List and Linked List
+00:42:20.171 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:42:20.803 [TestNG-PoolService-3] INFO  - User was able to see Types of Linked List page
+00:42:22.072 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:42:22.942 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:42:23.027 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:42:24.215 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+00:42:24.704 [TestNG-PoolService-5] INFO  - User was able to see Linked List page
+00:42:24.835 [TestNG-PoolService-5] INFO  - Home Page title are Linked List and Linked List
+00:42:24.849 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:42:25.372 [TestNG-PoolService-5] INFO  - User was able to see Implement Linked List in Python page
+00:42:26.206 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:42:26.206 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:42:27.769 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+00:42:27.872 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:42:28.154 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+00:42:28.530 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+00:42:29.169 [TestNG-PoolService-6] INFO  - User was able to see Linked List page
+00:42:29.338 [TestNG-PoolService-2] INFO  - User was able to see Linked List page
+00:42:29.350 [TestNG-PoolService-6] INFO  - Home Page title are Linked List and Linked List
+00:42:29.516 [TestNG-PoolService-2] INFO  - Home Page title are Linked List and Linked List
+00:42:29.914 [TestNG-PoolService-6] INFO  - User was able to see Insertion page
+00:42:29.962 [TestNG-PoolService-2] INFO  - User was able to see Traversal page
+00:42:30.950 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+00:42:31.229 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:42:32.367 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+00:42:32.716 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+00:42:32.728 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+00:42:33.185 [TestNG-PoolService-1] INFO  - User was able to see Stack page
+00:42:33.322 [TestNG-PoolService-1] INFO  - Home Page title are Stack and Stack
+00:42:33.468 [TestNG-PoolService-4] INFO  - User was able to see Linked List page
+00:42:33.899 [TestNG-PoolService-4] INFO  - Home Page title are Linked List and Linked List
+00:42:33.920 [TestNG-PoolService-1] INFO  - User was able to see Operations in Stack page
+00:42:34.089 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+00:42:34.476 [TestNG-PoolService-4] INFO  - User was able to see Deletion page
+00:42:34.522 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+00:42:34.540 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:42:34.856 [TestNG-PoolService-3] INFO  - User was able to see Stack page
+00:42:35.001 [TestNG-PoolService-3] INFO  - Home Page title are Stack and Stack
+00:42:35.406 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+00:42:35.426 [TestNG-PoolService-3] INFO  - User was able to see Implementation page
+00:42:36.023 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:42:36.269 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:42:36.583 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:42:37.714 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:42:38.398 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+00:42:38.862 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:42:39.141 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:42:39.437 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:42:40.172 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+00:42:40.721 [TestNG-PoolService-5] INFO  - User was able to see Stack page
+00:42:40.813 [TestNG-PoolService-5] INFO  - Home Page title are Stack and Stack
+00:42:41.063 [TestNG-PoolService-5] INFO  - User was able to see Applications page
+00:42:42.634 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:42:42.748 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:42:42.893 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+00:42:43.439 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:42:45.774 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+00:42:46.162 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+00:42:46.730 [TestNG-PoolService-2] INFO  - User was able to see Queue page
+00:42:46.886 [TestNG-PoolService-2] INFO  - Home Page title are Queue and Queue
+00:42:46.887 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+00:42:47.206 [TestNG-PoolService-2] INFO  - User was able to see Implementation of Queue in Python page
+00:42:47.333 [TestNG-PoolService-6] INFO  - User was able to see Queue page
+00:42:47.694 [TestNG-PoolService-6] INFO  - Home Page title are Queue and Queue
+00:42:48.086 [TestNG-PoolService-6] INFO  - User was able to see Implementation using collections.deque page
+00:42:48.480 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:42:49.667 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+00:42:49.690 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+00:42:51.345 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+00:42:51.549 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+00:42:51.602 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:42:51.980 [TestNG-PoolService-4] INFO  - User was able to see Queue page
+00:42:52.042 [TestNG-PoolService-1] INFO  - User was able to see Queue page
+00:42:52.115 [TestNG-PoolService-4] INFO  - Home Page title are Queue and Queue
+00:42:52.174 [TestNG-PoolService-1] INFO  - Home Page title are Queue and Queue
+00:42:52.388 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+00:42:52.640 [TestNG-PoolService-1] INFO  - User was able to see Queue Operations page
+00:42:52.661 [TestNG-PoolService-4] INFO  - User was able to see Implementation using array page
+00:42:52.891 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+00:42:53.049 [TestNG-PoolService-3] INFO  - User was able to see Tree page
+00:42:53.183 [TestNG-PoolService-3] INFO  - Home Page title are Tree and Tree
+00:42:53.777 [TestNG-PoolService-3] INFO  - User was able to see Overview of Trees page
+00:42:53.938 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:42:54.581 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:42:55.500 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:42:55.570 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:42:56.157 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+00:42:56.839 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:42:57.668 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:42:57.729 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+00:42:58.414 [TestNG-PoolService-5] INFO  - User was able to see Tree page
+00:42:58.614 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:42:58.665 [TestNG-PoolService-5] INFO  - Home Page title are Tree and Tree
+00:42:59.303 [TestNG-PoolService-5] INFO  - User was able to see Terminologies page
+00:42:59.882 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:43:00.673 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:43:01.049 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+00:43:01.311 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+00:43:01.749 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:43:01.919 [TestNG-PoolService-2] INFO  - User was able to see Tree page
+00:43:02.170 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+00:43:02.177 [TestNG-PoolService-2] INFO  - Home Page title are Tree and Tree
+00:43:02.743 [TestNG-PoolService-6] INFO  - User was able to see Tree page
+00:43:02.750 [TestNG-PoolService-2] INFO  - User was able to see Types of Trees page
+00:43:02.878 [TestNG-PoolService-6] INFO  - Home Page title are Tree and Tree
+00:43:03.251 [TestNG-PoolService-6] INFO  - User was able to see Tree Traversals page
+00:43:04.231 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:43:04.318 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+00:43:04.442 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+00:43:06.977 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:43:07.522 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+00:43:07.529 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+00:43:08.038 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+00:43:08.176 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+00:43:08.858 [TestNG-PoolService-4] INFO  - User was able to see Tree page
+00:43:08.916 [TestNG-PoolService-1] INFO  - User was able to see Tree page
+00:43:08.979 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+00:43:09.030 [TestNG-PoolService-4] INFO  - Home Page title are Tree and Tree
+00:43:09.064 [TestNG-PoolService-1] INFO  - Home Page title are Tree and Tree
+00:43:10.100 [TestNG-PoolService-4] INFO  - User was able to see Traversals-Illustration page
+00:43:10.355 [TestNG-PoolService-1] INFO  - User was able to see Binary Trees page
+00:43:10.469 [TestNG-PoolService-3] INFO  - User was able to see Tree page
+00:43:11.082 [TestNG-PoolService-3] INFO  - Home Page title are Tree and Tree
+00:43:11.476 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:43:11.818 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+00:43:12.286 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:43:12.327 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:43:12.385 [TestNG-PoolService-3] INFO  - User was able to see Types of Binary Trees page
+00:43:13.862 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:43:14.056 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+00:43:14.455 [TestNG-PoolService-5] INFO  - User was able to see Tree page
+00:43:14.557 [TestNG-PoolService-5] INFO  - Home Page title are Tree and Tree
+00:43:15.056 [TestNG-PoolService-5] INFO  - User was able to see Implementation in Python page
+00:43:15.430 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:43:15.447 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:43:15.972 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+00:43:16.591 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:43:18.217 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:43:18.298 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:43:19.339 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:43:23.989 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+00:43:23.991 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+00:43:23.993 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+00:43:24.648 [TestNG-PoolService-2] INFO  - User was able to see Tree page
+00:43:24.730 [TestNG-PoolService-6] INFO  - User was able to see Tree page
+00:43:24.834 [TestNG-PoolService-4] INFO  - User was able to see Tree page
+00:43:24.862 [TestNG-PoolService-2] INFO  - Home Page title are Tree and Tree
+00:43:24.906 [TestNG-PoolService-6] INFO  - Home Page title are Tree and Tree
+00:43:25.089 [TestNG-PoolService-4] INFO  - Home Page title are Tree and Tree
+00:43:25.310 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+00:43:25.352 [TestNG-PoolService-2] INFO  - User was able to see Implementation of Binary Trees page
+00:43:25.389 [TestNG-PoolService-6] INFO  - User was able to see Binary Tree Traversals page
+00:43:25.555 [TestNG-PoolService-4] INFO  - User was able to see Applications of Binary trees page
+00:43:26.222 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+00:43:26.505 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+00:43:26.789 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+00:43:26.789 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:43:27.219 [TestNG-PoolService-1] INFO  - User was able to see Tree page
+00:43:27.238 [TestNG-PoolService-3] INFO  - User was able to see Tree page
+00:43:27.475 [TestNG-PoolService-1] INFO  - Home Page title are Tree and Tree
+00:43:27.481 [TestNG-PoolService-3] INFO  - Home Page title are Tree and Tree
+00:43:27.756 [TestNG-PoolService-3] INFO  - User was able to see Implementation Of BST page
+00:43:27.841 [TestNG-PoolService-1] INFO  - User was able to see Binary Search Trees page
+00:43:28.353 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:43:28.455 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:43:29.406 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:43:29.409 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+00:43:29.775 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:43:29.906 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+00:43:30.883 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:43:30.977 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:43:32.094 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:43:32.097 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+00:43:32.369 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:43:33.893 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+00:43:34.060 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+00:43:35.088 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+00:43:36.077 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+00:43:36.473 [TestNG-PoolService-2] INFO  - User was able to see Graph page
+00:43:36.491 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+00:43:36.588 [TestNG-PoolService-2] INFO  - Home Page title are Graph and Graph
+00:43:36.961 [TestNG-PoolService-5] INFO  - User was able to see Graph page
+00:43:37.111 [TestNG-PoolService-2] INFO  - User was able to see Graph Representations page
+00:43:37.122 [TestNG-PoolService-5] INFO  - Home Page title are Graph and Graph
+00:43:37.342 [TestNG-PoolService-5] INFO  - User was able to see Graph page
+00:43:38.112 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+00:43:38.371 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:43:40.594 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+00:43:40.903 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:43:43.031 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+00:43:43.430 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+00:43:44.585 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+00:43:44.827 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+12:57:15.462 [TestNG-PoolService-2] INFO  - User got the title
+12:57:16.209 [TestNG-PoolService-1] INFO  - User got the title
+12:57:17.180 [TestNG-PoolService-3] INFO  - User clicks on any dropwon item list
+12:57:17.580 [TestNG-PoolService-4] INFO  - User clicks on any of the get started buttons
+12:57:19.447 [TestNG-PoolService-1] INFO  - register page is opened
+12:57:20.149 [TestNG-PoolService-5] INFO  - register page is opened
+12:57:20.345 [TestNG-PoolService-5] INFO  - User enters the input fields
+12:57:20.584 [TestNG-PoolService-5] INFO  - Validation message :Please fill out this field.
+12:57:21.104 [TestNG-PoolService-1] INFO  - User enters the input fields
+12:57:21.206 [TestNG-PoolService-1] INFO  - Validation message :Please fill out this field.
+12:57:21.734 [TestNG-PoolService-3] INFO  - register page is opened
+12:57:21.976 [TestNG-PoolService-3] INFO  - User enters the input fields
+12:57:22.094 [TestNG-PoolService-3] INFO  - Validation message :Please fill out this field.
+12:57:23.309 [TestNG-PoolService-4] INFO  - register page is opened
+12:57:23.538 [TestNG-PoolService-4] INFO  - User enters the input fields
+12:57:23.620 [TestNG-PoolService-4] INFO  - Validation message :Please fill out this field.
+12:57:24.281 [TestNG-PoolService-6] INFO  - register page is opened
+12:57:26.307 [TestNG-PoolService-5] INFO  - register page is opened
+12:57:26.794 [TestNG-PoolService-3] INFO  - register page is opened
+12:57:28.061 [TestNG-PoolService-6] INFO  - password_mismatch:The two password fields didn’t match.
+12:57:29.012 [TestNG-PoolService-1] INFO  - Navigated to the Login Page
+12:57:29.608 [TestNG-PoolService-1] INFO  - User got the Url title
+12:57:29.989 [TestNG-PoolService-4] INFO  - Navigated to the Login Page
+12:57:30.006 [TestNG-PoolService-4] INFO  - User got the Url title
+12:57:30.064 [TestNG-PoolService-5] INFO  - password_mismatch:The two password fields didn’t match.
+12:57:30.524 [TestNG-PoolService-3] INFO  - password_mismatch:The two password fields didn’t match.
+12:57:30.759 [TestNG-PoolService-2] INFO  - Navigated to the Login Page
+12:57:32.556 [TestNG-PoolService-6] INFO  - Navigated to the Login Page
+12:57:33.697 [TestNG-PoolService-1] INFO  - Navigated to the Login Page
+12:57:34.828 [TestNG-PoolService-5] INFO  - Navigated to the Login Page
+12:57:35.594 [TestNG-PoolService-4] INFO  - Navigated to the Login Page
+12:57:37.638 [TestNG-PoolService-3] INFO  - Navigated to the Login Page
+12:57:38.407 [TestNG-PoolService-1] INFO  - Navigated to the Login Page
+12:57:39.217 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+12:57:39.563 [TestNG-PoolService-2] INFO  - User was able to see Data Structures-Introduction page
+12:57:39.687 [TestNG-PoolService-2] INFO  - Home Page title are Data Structures-Introduction and Data Structures-Introduction
+12:57:39.958 [TestNG-PoolService-2] INFO  - User was able to see Time Complexity page
+12:57:40.379 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+12:57:40.599 [TestNG-PoolService-5] INFO  - User clicked on Data Structures dropdown
+12:57:40.599 [TestNG-PoolService-5] INFO  - User should be able to see six options
+12:57:40.957 [TestNG-PoolService-5] INFO  - User has Selected Arrays option
+12:57:40.980 [TestNG-PoolService-5] INFO  - User was able to see Array page
+12:57:41.715 [TestNG-PoolService-5] INFO  - Home Page title are Arrays in Python and Arrays in Python
+12:57:41.803 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+12:57:42.006 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+12:57:42.010 [TestNG-PoolService-5] INFO  - User was able to see Arrays in Python page
+12:57:42.036 [TestNG-PoolService-4] INFO  - User clicked on Data Structures dropdown
+12:57:42.037 [TestNG-PoolService-4] INFO  - User should be able to see six options
+12:57:42.390 [TestNG-PoolService-4] INFO  - User has Selected Arrays option
+12:57:42.446 [TestNG-PoolService-4] INFO  - User was able to see Array page
+12:57:42.736 [TestNG-PoolService-4] INFO  - Home Page title are Arrays in Python and Arrays in Python
+12:57:43.004 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:57:43.006 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+12:57:43.041 [TestNG-PoolService-4] INFO  - User was able to see Arrays Using List page
+12:57:43.517 [TestNG-PoolService-6] INFO  - User clicked on Data Structures dropdown
+12:57:43.520 [TestNG-PoolService-6] INFO  - User should be able to see six options
+12:57:43.828 [TestNG-PoolService-6] INFO  - User has Selected Arrays option
+12:57:43.854 [TestNG-PoolService-6] INFO  - User was able to see Array page
+12:57:44.273 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+12:57:44.273 [TestNG-PoolService-6] INFO  - Home Page title are Arrays in Python and Arrays in Python
+12:57:44.448 [TestNG-PoolService-1] INFO  - User clicked on Data Structures dropdown
+12:57:44.449 [TestNG-PoolService-1] INFO  - User should be able to see six options
+12:57:44.489 [TestNG-PoolService-6] INFO  - User was able to see Basic Operations in Lists page
+12:57:44.751 [TestNG-PoolService-1] INFO  - User has Selected Arrays option
+12:57:44.765 [TestNG-PoolService-1] INFO  - User was able to see Array page
+12:57:45.060 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:57:45.142 [TestNG-PoolService-1] INFO  - Home Page title are Arrays in Python and Arrays in Python
+12:57:45.407 [TestNG-PoolService-1] INFO  - User was able to see Applications of Array page
+12:57:45.412 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:57:45.708 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+12:57:45.882 [TestNG-PoolService-3] INFO  - User clicked on Data Structures dropdown
+12:57:45.882 [TestNG-PoolService-3] INFO  - User should be able to see six options
+12:57:46.139 [TestNG-PoolService-3] INFO  - User has Selected Arrays option
+12:57:46.146 [TestNG-PoolService-3] INFO  - User was able to see Array page
+12:57:46.282 [TestNG-PoolService-3] INFO  - Home Page title are Practice Questions and Practice Questions
+12:57:46.814 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:57:47.283 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:57:47.289 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+12:57:47.969 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:57:48.196 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:57:49.691 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:57:50.513 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:57:50.582 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+12:57:50.771 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:57:51.059 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:57:52.493 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+12:57:52.739 [TestNG-PoolService-3] INFO  - User clicked on Data Structures dropdown
+12:57:52.739 [TestNG-PoolService-3] INFO  - User should be able to see six options
+12:57:52.760 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:57:53.067 [TestNG-PoolService-3] INFO  - User has Selected Arrays option
+12:57:53.090 [TestNG-PoolService-3] INFO  - User was able to see Array page
+12:57:53.224 [TestNG-PoolService-3] INFO  - Home Page title are Practice Questions and Practice Questions
+12:57:55.058 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+12:57:55.225 [TestNG-PoolService-5] INFO  - User clicked on Data Structures dropdown
+12:57:55.226 [TestNG-PoolService-5] INFO  - User should be able to see six options
+12:57:55.390 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+12:57:55.483 [TestNG-PoolService-5] INFO  - User has Selected Arrays option
+12:57:55.495 [TestNG-PoolService-5] INFO  - User was able to see Array page
+12:57:55.650 [TestNG-PoolService-2] INFO  - User clicked on Data Structures dropdown
+12:57:55.651 [TestNG-PoolService-2] INFO  - User should be able to see six options
+12:57:55.656 [TestNG-PoolService-5] INFO  - Home Page title are Practice Questions and Practice Questions
+12:57:56.005 [TestNG-PoolService-2] INFO  - User has Selected Arrays option
+12:57:56.020 [TestNG-PoolService-2] INFO  - User was able to see Array page
+12:57:56.175 [TestNG-PoolService-2] INFO  - Home Page title are Practice Questions and Practice Questions
+12:57:57.526 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+12:57:58.045 [TestNG-PoolService-6] INFO  - User was able to see Linked List page
+12:57:58.190 [TestNG-PoolService-6] INFO  - Home Page title are Linked List and Linked List
+12:57:58.507 [TestNG-PoolService-6] INFO  - User was able to see Introduction page
+12:57:58.728 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+12:57:59.056 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+12:57:59.442 [TestNG-PoolService-4] INFO  - User was able to see Linked List page
+12:57:59.449 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:57:59.983 [TestNG-PoolService-4] INFO  - Home Page title are Linked List and Linked List
+12:58:00.115 [TestNG-PoolService-1] INFO  - User was able to see Linked List page
+12:58:00.424 [TestNG-PoolService-1] INFO  - Home Page title are Linked List and Linked List
+12:58:00.607 [TestNG-PoolService-4] INFO  - User was able to see Types of Linked List page
+12:58:00.736 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+12:58:00.817 [TestNG-PoolService-1] INFO  - User was able to see Creating Linked LIst page
+12:58:01.495 [TestNG-PoolService-3] INFO  - User was able to see Linked List page
+12:58:01.806 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+12:58:01.937 [TestNG-PoolService-3] INFO  - Home Page title are Linked List and Linked List
+12:58:02.202 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:58:02.242 [TestNG-PoolService-5] INFO  - User was able to see Linked List page
+12:58:02.375 [TestNG-PoolService-5] INFO  - Home Page title are Linked List and Linked List
+12:58:02.521 [TestNG-PoolService-3] INFO  - User was able to see Implement Linked List in Python page
+12:58:02.547 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:58:02.639 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:58:02.668 [TestNG-PoolService-5] INFO  - User was able to see Traversal page
+12:58:03.484 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:58:03.674 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+12:58:03.750 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+12:58:04.263 [TestNG-PoolService-2] INFO  - User was able to see Linked List page
+12:58:04.570 [TestNG-PoolService-2] INFO  - Home Page title are Linked List and Linked List
+12:58:04.858 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:58:04.975 [TestNG-PoolService-2] INFO  - User was able to see Insertion page
+12:58:05.170 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:58:05.182 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:58:06.053 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:58:06.384 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+12:58:06.643 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+12:58:07.406 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:58:07.930 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:58:08.859 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:58:09.208 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+12:58:09.257 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+12:58:09.590 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+12:58:09.763 [TestNG-PoolService-6] INFO  - User was able to see Linked List page
+12:58:09.913 [TestNG-PoolService-6] INFO  - Home Page title are Linked List and Linked List
+12:58:10.391 [TestNG-PoolService-6] INFO  - User was able to see Deletion page
+12:58:11.300 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+12:58:11.357 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:58:11.765 [TestNG-PoolService-4] INFO  - User was able to see Stack page
+12:58:11.906 [TestNG-PoolService-4] INFO  - Home Page title are Stack and Stack
+12:58:12.241 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+12:58:12.256 [TestNG-PoolService-4] INFO  - User was able to see Operations in Stack page
+12:58:12.726 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+12:58:13.143 [TestNG-PoolService-1] INFO  - User was able to see Stack page
+12:58:13.265 [TestNG-PoolService-1] INFO  - Home Page title are Stack and Stack
+12:58:13.338 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:58:13.551 [TestNG-PoolService-1] INFO  - User was able to see Implementation page
+12:58:13.779 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+12:58:14.331 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:58:14.373 [TestNG-PoolService-5] INFO  - User was able to see Stack page
+12:58:14.431 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+12:58:14.483 [TestNG-PoolService-5] INFO  - Home Page title are Stack and Stack
+12:58:14.757 [TestNG-PoolService-5] INFO  - User was able to see Applications page
+12:58:14.878 [TestNG-PoolService-3] INFO  - User was able to see Queue page
+12:58:15.041 [TestNG-PoolService-3] INFO  - Home Page title are Queue and Queue
+12:58:15.164 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:58:15.310 [TestNG-PoolService-3] INFO  - User was able to see Implementation of Queue in Python page
+12:58:15.684 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:58:15.967 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:58:16.351 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+12:58:16.732 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+12:58:16.741 [TestNG-PoolService-2] INFO  - User was able to see Queue page
+12:58:16.878 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:58:16.936 [TestNG-PoolService-2] INFO  - Home Page title are Queue and Queue
+12:58:17.184 [TestNG-PoolService-2] INFO  - User was able to see Implementation using collections.deque page
+12:58:17.910 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:58:18.314 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:58:18.756 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+12:58:18.758 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:58:19.499 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+12:58:20.514 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:58:20.894 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+12:58:21.040 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:58:21.355 [TestNG-PoolService-6] INFO  - User was able to see Queue page
+12:58:21.476 [TestNG-PoolService-6] INFO  - Home Page title are Queue and Queue
+12:58:21.787 [TestNG-PoolService-6] INFO  - User was able to see Implementation using array page
+12:58:21.902 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+12:58:22.258 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+12:58:22.633 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+12:58:23.082 [TestNG-PoolService-4] INFO  - User was able to see Queue page
+12:58:23.210 [TestNG-PoolService-4] INFO  - Home Page title are Queue and Queue
+12:58:23.475 [TestNG-PoolService-4] INFO  - User was able to see Queue Operations page
+12:58:23.862 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:58:24.368 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:58:24.669 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+12:58:24.703 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+12:58:25.117 [TestNG-PoolService-1] INFO  - User was able to see Tree page
+12:58:25.221 [TestNG-PoolService-1] INFO  - Home Page title are Tree and Tree
+12:58:25.567 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+12:58:25.576 [TestNG-PoolService-1] INFO  - User was able to see Overview of Trees page
+12:58:26.179 [TestNG-PoolService-5] INFO  - User was able to see Tree page
+12:58:26.310 [TestNG-PoolService-5] INFO  - Home Page title are Tree and Tree
+12:58:26.565 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:58:26.598 [TestNG-PoolService-5] INFO  - User was able to see Terminologies page
+12:58:26.727 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:58:26.782 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+12:58:27.273 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:58:27.572 [TestNG-PoolService-3] INFO  - User was able to see Tree page
+12:58:27.640 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:58:27.790 [TestNG-PoolService-3] INFO  - Home Page title are Tree and Tree
+12:58:28.194 [TestNG-PoolService-3] INFO  - User was able to see Types of Trees page
+12:58:28.447 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+12:58:28.919 [TestNG-PoolService-2] INFO  - User was able to see Tree page
+12:58:29.139 [TestNG-PoolService-2] INFO  - Home Page title are Tree and Tree
+12:58:29.294 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:58:29.470 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:58:29.525 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+12:58:29.567 [TestNG-PoolService-2] INFO  - User was able to see Tree Traversals page
+12:58:30.129 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:58:30.232 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:58:30.928 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+12:58:32.129 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:58:32.232 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+12:58:33.010 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:58:33.578 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+12:58:33.758 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+12:58:34.116 [TestNG-PoolService-6] INFO  - User was able to see Tree page
+12:58:34.145 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+12:58:34.238 [TestNG-PoolService-6] INFO  - Home Page title are Tree and Tree
+12:58:34.566 [TestNG-PoolService-6] INFO  - User was able to see Traversals-Illustration page
+12:58:34.712 [TestNG-PoolService-4] INFO  - User was able to see Tree page
+12:58:34.988 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+12:58:34.989 [TestNG-PoolService-4] INFO  - Home Page title are Tree and Tree
+12:58:35.655 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:58:35.888 [TestNG-PoolService-4] INFO  - User was able to see Binary Trees page
+12:58:36.203 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+12:58:36.650 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+12:58:36.794 [TestNG-PoolService-1] INFO  - User was able to see Tree page
+12:58:36.888 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:58:37.005 [TestNG-PoolService-1] INFO  - Home Page title are Tree and Tree
+12:58:37.493 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+12:58:37.732 [TestNG-PoolService-1] INFO  - User was able to see Types of Binary Trees page
+12:58:37.902 [TestNG-PoolService-5] INFO  - User was able to see Tree page
+12:58:38.004 [TestNG-PoolService-5] INFO  - Home Page title are Tree and Tree
+12:58:38.343 [TestNG-PoolService-5] INFO  - User was able to see Implementation in Python page
+12:58:38.515 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:58:39.090 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+12:58:39.136 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:58:39.155 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:58:39.451 [TestNG-PoolService-3] INFO  - User was able to see Tree page
+12:58:39.557 [TestNG-PoolService-3] INFO  - Home Page title are Tree and Tree
+12:58:39.667 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:58:39.902 [TestNG-PoolService-3] INFO  - User was able to see Binary Tree Traversals page
+12:58:40.619 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+12:58:40.755 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+12:58:41.179 [TestNG-PoolService-2] INFO  - User was able to see Tree page
+12:58:41.204 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:58:41.295 [TestNG-PoolService-2] INFO  - Home Page title are Tree and Tree
+12:58:41.539 [TestNG-PoolService-2] INFO  - User was able to see Implementation of Binary Trees page
+12:58:41.857 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:58:41.960 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:58:42.349 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:58:42.431 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+12:58:43.256 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+12:58:44.645 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:58:44.685 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:58:45.270 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+12:58:45.624 [TestNG-PoolService-6] INFO  - User was able to see NumpyNinja page
+12:58:46.065 [TestNG-PoolService-6] INFO  - User was able to see Tree page
+12:58:46.218 [TestNG-PoolService-6] INFO  - Home Page title are Tree and Tree
+12:58:46.543 [TestNG-PoolService-6] INFO  - User was able to see Applications of Binary trees page
+12:58:46.604 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+12:58:46.805 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+12:58:47.410 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:58:47.710 [TestNG-PoolService-4] INFO  - User was able to see Tree page
+12:58:47.919 [TestNG-PoolService-4] INFO  - Home Page title are Tree and Tree
+12:58:48.235 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+12:58:48.631 [TestNG-PoolService-4] INFO  - User was able to see Binary Search Trees page
+12:58:48.896 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+12:58:49.418 [TestNG-PoolService-5] INFO  - User was able to see Tree page
+12:58:49.569 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+12:58:49.603 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:58:49.632 [TestNG-PoolService-5] INFO  - Home Page title are Tree and Tree
+12:58:50.003 [TestNG-PoolService-1] INFO  - User was able to see Graph page
+12:58:50.050 [TestNG-PoolService-5] INFO  - User was able to see Implementation Of BST page
+12:58:50.121 [TestNG-PoolService-1] INFO  - Home Page title are Graph and Graph
+12:58:50.220 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:58:50.487 [TestNG-PoolService-1] INFO  - User was able to see Graph page
+12:58:50.792 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+12:58:51.183 [TestNG-PoolService-3] INFO  - User was able to see Graph page
+12:58:51.268 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:58:51.276 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:58:51.300 [TestNG-PoolService-3] INFO  - Home Page title are Graph and Graph
+12:58:51.770 [TestNG-PoolService-3] INFO  - User was able to see Graph Representations page
+12:58:52.187 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:58:52.983 [TestNG-PoolService-6] INFO  - User was able to see Assessment page
+12:58:53.010 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+12:58:53.865 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:58:53.865 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:58:54.693 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+12:58:55.749 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+12:58:56.525 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+12:58:56.532 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+12:58:57.283 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+12:58:58.268 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+12:58:58.860 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+13:09:40.583 [TestNG-PoolService-2] INFO  - User got the title
+13:09:41.357 [TestNG-PoolService-1] INFO  - User got the title
+13:09:41.986 [TestNG-PoolService-4] INFO  - User clicks on any of the get started buttons
+13:09:42.417 [TestNG-PoolService-3] INFO  - User clicks on any dropwon item list
+13:09:45.890 [TestNG-PoolService-4] INFO  - register page is opened
+13:09:46.096 [TestNG-PoolService-4] INFO  - User enters the input fields
+13:09:46.166 [TestNG-PoolService-3] INFO  - register page is opened
+13:09:46.232 [TestNG-PoolService-4] INFO  - Validation message :Please fill out this field.
+13:09:46.490 [TestNG-PoolService-2] INFO  - register page is opened
+13:09:46.502 [TestNG-PoolService-3] INFO  - User enters the input fields
+13:09:46.625 [TestNG-PoolService-3] INFO  - Validation message :Please fill out this field.
+13:09:46.835 [TestNG-PoolService-2] INFO  - User enters the input fields
+13:09:46.928 [TestNG-PoolService-2] INFO  - Validation message :Please fill out this field.
+13:09:47.280 [TestNG-PoolService-5] INFO  - register page is opened
+13:09:47.652 [TestNG-PoolService-5] INFO  - User enters the input fields
+13:09:47.748 [TestNG-PoolService-5] INFO  - Validation message :Please fill out this field.
+13:09:49.722 [TestNG-PoolService-4] INFO  - register page is opened
+13:09:49.728 [TestNG-PoolService-1] INFO  - register page is opened
+13:09:51.192 [TestNG-PoolService-2] INFO  - register page is opened
+13:09:51.625 [TestNG-PoolService-3] INFO  - Navigated to the Login Page
+13:09:51.634 [TestNG-PoolService-3] INFO  - User got the Url title
+13:09:52.435 [TestNG-PoolService-5] INFO  - Navigated to the Login Page
+13:09:53.000 [TestNG-PoolService-5] INFO  - User got the Url title
+13:09:53.329 [TestNG-PoolService-1] INFO  - password_mismatch:The two password fields didn’t match.
+13:09:53.359 [TestNG-PoolService-4] INFO  - password_mismatch:The two password fields didn’t match.
+13:09:54.400 [TestNG-PoolService-3] INFO  - Navigated to the Login Page
+13:09:54.734 [TestNG-PoolService-2] INFO  - password_mismatch:The two password fields didn’t match.
+13:09:55.713 [TestNG-PoolService-5] INFO  - Navigated to the Login Page
+13:09:57.761 [TestNG-PoolService-1] INFO  - Navigated to the Login Page
+13:09:58.001 [TestNG-PoolService-4] INFO  - Navigated to the Login Page
+13:10:00.710 [TestNG-PoolService-3] INFO  - Navigated to the Login Page
+13:10:00.827 [TestNG-PoolService-5] INFO  - Navigated to the Login Page
+13:10:00.829 [TestNG-PoolService-2] INFO  - Navigated to the Login Page
+13:10:03.001 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+13:10:03.016 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+13:10:03.249 [TestNG-PoolService-1] INFO  - User clicked on Data Structures dropdown
+13:10:03.250 [TestNG-PoolService-1] INFO  - User should be able to see six options
+13:10:03.474 [TestNG-PoolService-4] INFO  - User was able to see Data Structures-Introduction page
+13:10:03.529 [TestNG-PoolService-1] INFO  - User has Selected Arrays option
+13:10:03.544 [TestNG-PoolService-1] INFO  - User was able to see Array page
+13:10:03.597 [TestNG-PoolService-4] INFO  - Home Page title are Data Structures-Introduction and Data Structures-Introduction
+13:10:03.782 [TestNG-PoolService-1] INFO  - Home Page title are Arrays in Python and Arrays in Python
+13:10:03.871 [TestNG-PoolService-4] INFO  - User was able to see Time Complexity page
+13:10:04.028 [TestNG-PoolService-1] INFO  - User was able to see Arrays in Python page
+13:10:05.013 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+13:10:05.017 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+13:10:05.162 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:10:05.233 [TestNG-PoolService-3] INFO  - User clicked on Data Structures dropdown
+13:10:05.234 [TestNG-PoolService-3] INFO  - User should be able to see six options
+13:10:05.249 [TestNG-PoolService-5] INFO  - User clicked on Data Structures dropdown
+13:10:05.250 [TestNG-PoolService-5] INFO  - User should be able to see six options
+13:10:05.550 [TestNG-PoolService-3] INFO  - User has Selected Arrays option
+13:10:05.550 [TestNG-PoolService-5] INFO  - User has Selected Arrays option
+13:10:05.565 [TestNG-PoolService-5] INFO  - User was able to see Array page
+13:10:05.565 [TestNG-PoolService-3] INFO  - User was able to see Array page
+13:10:05.670 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:10:05.817 [TestNG-PoolService-3] INFO  - Home Page title are Arrays in Python and Arrays in Python
+13:10:05.858 [TestNG-PoolService-5] INFO  - Home Page title are Arrays in Python and Arrays in Python
+13:10:06.044 [TestNG-PoolService-3] INFO  - User was able to see Arrays Using List page
+13:10:06.094 [TestNG-PoolService-5] INFO  - User was able to see Basic Operations in Lists page
+13:10:06.800 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+13:10:06.967 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:10:06.982 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:10:07.025 [TestNG-PoolService-2] INFO  - User clicked on Data Structures dropdown
+13:10:07.025 [TestNG-PoolService-2] INFO  - User should be able to see six options
+13:10:07.343 [TestNG-PoolService-2] INFO  - User has Selected Arrays option
+13:10:07.350 [TestNG-PoolService-2] INFO  - User was able to see Array page
+13:10:07.685 [TestNG-PoolService-2] INFO  - Home Page title are Arrays in Python and Arrays in Python
+13:10:07.884 [TestNG-PoolService-2] INFO  - User was able to see Applications of Array page
+13:10:08.642 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:10:09.443 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:10:09.443 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:10:09.775 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:10:09.780 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:10:11.542 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:10:12.113 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:10:12.114 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:10:12.461 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:10:12.522 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:10:14.246 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:10:16.304 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+13:10:16.668 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+13:10:16.721 [TestNG-PoolService-1] INFO  - User clicked on Data Structures dropdown
+13:10:16.721 [TestNG-PoolService-1] INFO  - User should be able to see six options
+13:10:16.779 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+13:10:16.851 [TestNG-PoolService-4] INFO  - User clicked on Data Structures dropdown
+13:10:16.852 [TestNG-PoolService-4] INFO  - User should be able to see six options
+13:10:16.950 [TestNG-PoolService-3] INFO  - User clicked on Data Structures dropdown
+13:10:16.950 [TestNG-PoolService-3] INFO  - User should be able to see six options
+13:10:17.025 [TestNG-PoolService-1] INFO  - User has Selected Arrays option
+13:10:17.037 [TestNG-PoolService-1] INFO  - User was able to see Array page
+13:10:17.140 [TestNG-PoolService-4] INFO  - User has Selected Arrays option
+13:10:17.154 [TestNG-PoolService-4] INFO  - User was able to see Array page
+13:10:17.176 [TestNG-PoolService-1] INFO  - Home Page title are Practice Questions and Practice Questions
+13:10:17.260 [TestNG-PoolService-3] INFO  - User has Selected Arrays option
+13:10:17.273 [TestNG-PoolService-3] INFO  - User was able to see Array page
+13:10:17.289 [TestNG-PoolService-4] INFO  - Home Page title are Practice Questions and Practice Questions
+13:10:17.390 [TestNG-PoolService-3] INFO  - Home Page title are Practice Questions and Practice Questions
+13:10:17.657 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+13:10:17.852 [TestNG-PoolService-5] INFO  - User clicked on Data Structures dropdown
+13:10:17.853 [TestNG-PoolService-5] INFO  - User should be able to see six options
+13:10:18.267 [TestNG-PoolService-5] INFO  - User has Selected Arrays option
+13:10:18.274 [TestNG-PoolService-5] INFO  - User was able to see Array page
+13:10:18.406 [TestNG-PoolService-5] INFO  - Home Page title are Practice Questions and Practice Questions
+13:10:18.549 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+13:10:19.183 [TestNG-PoolService-2] INFO  - User was able to see Linked List page
+13:10:19.312 [TestNG-PoolService-2] INFO  - Home Page title are Linked List and Linked List
+13:10:19.698 [TestNG-PoolService-2] INFO  - User was able to see Introduction page
+13:10:20.545 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:10:22.710 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+13:10:23.195 [TestNG-PoolService-1] INFO  - User was able to see Linked List page
+13:10:23.229 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:10:23.315 [TestNG-PoolService-1] INFO  - Home Page title are Linked List and Linked List
+13:10:23.772 [TestNG-PoolService-1] INFO  - User was able to see Creating Linked LIst page
+13:10:23.806 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+13:10:24.384 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+13:10:24.425 [TestNG-PoolService-4] INFO  - User was able to see Linked List page
+13:10:24.620 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:10:24.788 [TestNG-PoolService-4] INFO  - Home Page title are Linked List and Linked List
+13:10:24.881 [TestNG-PoolService-3] INFO  - User was able to see Linked List page
+13:10:24.998 [TestNG-PoolService-3] INFO  - Home Page title are Linked List and Linked List
+13:10:25.249 [TestNG-PoolService-3] INFO  - User was able to see Implement Linked List in Python page
+13:10:25.376 [TestNG-PoolService-4] INFO  - User was able to see Types of Linked List page
+13:10:25.427 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+13:10:25.874 [TestNG-PoolService-5] INFO  - User was able to see Linked List page
+13:10:26.082 [TestNG-PoolService-5] INFO  - Home Page title are Linked List and Linked List
+13:10:26.170 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:10:26.174 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:10:26.431 [TestNG-PoolService-5] INFO  - User was able to see Traversal page
+13:10:26.856 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:10:27.270 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:10:27.322 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:10:28.797 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:10:29.521 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:10:29.826 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+13:10:29.885 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:10:29.950 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:10:30.541 [TestNG-PoolService-2] INFO  - User was able to see Linked List page
+13:10:30.693 [TestNG-PoolService-2] INFO  - Home Page title are Linked List and Linked List
+13:10:31.082 [TestNG-PoolService-2] INFO  - User was able to see Insertion page
+13:10:31.387 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:10:31.928 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:10:32.009 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:10:32.533 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:10:33.390 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+13:10:34.012 [TestNG-PoolService-1] INFO  - User was able to see Linked List page
+13:10:34.346 [TestNG-PoolService-1] INFO  - Home Page title are Linked List and Linked List
+13:10:34.544 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:10:34.715 [TestNG-PoolService-1] INFO  - User was able to see Deletion page
+13:10:35.095 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+13:10:35.496 [TestNG-PoolService-3] INFO  - User was able to see Stack page
+13:10:35.656 [TestNG-PoolService-3] INFO  - Home Page title are Stack and Stack
+13:10:35.902 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+13:10:36.033 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:10:36.072 [TestNG-PoolService-3] INFO  - User was able to see Operations in Stack page
+13:10:36.375 [TestNG-PoolService-4] INFO  - User was able to see Stack page
+13:10:36.476 [TestNG-PoolService-4] INFO  - Home Page title are Stack and Stack
+13:10:36.709 [TestNG-PoolService-4] INFO  - User was able to see Implementation page
+13:10:36.739 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+13:10:36.802 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:10:37.109 [TestNG-PoolService-5] INFO  - User was able to see Stack page
+13:10:37.118 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:10:37.262 [TestNG-PoolService-5] INFO  - Home Page title are Stack and Stack
+13:10:37.496 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:10:37.509 [TestNG-PoolService-5] INFO  - User was able to see Applications page
+13:10:38.590 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:10:38.866 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:10:39.417 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:10:39.970 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:10:40.716 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+13:10:41.101 [TestNG-PoolService-2] INFO  - User was able to see Queue page
+13:10:41.171 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:10:41.193 [TestNG-PoolService-2] INFO  - Home Page title are Queue and Queue
+13:10:41.448 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:10:41.453 [TestNG-PoolService-2] INFO  - User was able to see Implementation of Queue in Python page
+13:10:41.974 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:10:42.325 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:10:42.557 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:10:44.029 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:10:44.707 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+13:10:44.985 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:10:45.146 [TestNG-PoolService-1] INFO  - User was able to see Queue page
+13:10:45.281 [TestNG-PoolService-1] INFO  - Home Page title are Queue and Queue
+13:10:45.637 [TestNG-PoolService-1] INFO  - User was able to see Implementation using collections.deque page
+13:10:45.791 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+13:10:46.152 [TestNG-PoolService-3] INFO  - User was able to see Queue page
+13:10:46.275 [TestNG-PoolService-3] INFO  - Home Page title are Queue and Queue
+13:10:46.345 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+13:10:46.532 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:10:46.559 [TestNG-PoolService-3] INFO  - User was able to see Implementation using array page
+13:10:46.742 [TestNG-PoolService-4] INFO  - User was able to see Queue page
+13:10:46.851 [TestNG-PoolService-4] INFO  - Home Page title are Queue and Queue
+13:10:47.205 [TestNG-PoolService-4] INFO  - User was able to see Queue Operations page
+13:10:47.358 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:10:47.610 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+13:10:47.643 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:10:48.004 [TestNG-PoolService-5] INFO  - User was able to see Tree page
+13:10:48.107 [TestNG-PoolService-5] INFO  - Home Page title are Tree and Tree
+13:10:48.360 [TestNG-PoolService-5] INFO  - User was able to see Overview of Trees page
+13:10:48.639 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:10:49.141 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:10:49.241 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:10:49.886 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:10:51.131 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+13:10:51.329 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:10:51.585 [TestNG-PoolService-2] INFO  - User was able to see Tree page
+13:10:51.694 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:10:51.823 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:10:51.835 [TestNG-PoolService-2] INFO  - Home Page title are Tree and Tree
+13:10:52.220 [TestNG-PoolService-2] INFO  - User was able to see Terminologies page
+13:10:52.470 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:10:53.472 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:10:53.811 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:10:54.303 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:10:55.151 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+13:10:55.887 [TestNG-PoolService-1] INFO  - User was able to see Tree page
+13:10:56.021 [TestNG-PoolService-1] INFO  - Home Page title are Tree and Tree
+13:10:56.117 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:10:56.308 [TestNG-PoolService-1] INFO  - User was able to see Types of Trees page
+13:10:56.322 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+13:10:56.917 [TestNG-PoolService-3] INFO  - User was able to see Tree page
+13:10:57.144 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+13:10:57.193 [TestNG-PoolService-3] INFO  - Home Page title are Tree and Tree
+13:10:57.221 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:10:57.638 [TestNG-PoolService-3] INFO  - User was able to see Tree Traversals page
+13:10:57.743 [TestNG-PoolService-4] INFO  - User was able to see Tree page
+13:10:58.076 [TestNG-PoolService-4] INFO  - Home Page title are Tree and Tree
+13:10:58.688 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:10:58.770 [TestNG-PoolService-4] INFO  - User was able to see Traversals-Illustration page
+13:10:59.170 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+13:10:59.519 [TestNG-PoolService-5] INFO  - User was able to see Tree page
+13:10:59.621 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:10:59.652 [TestNG-PoolService-5] INFO  - Home Page title are Tree and Tree
+13:10:59.822 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:10:59.943 [TestNG-PoolService-5] INFO  - User was able to see Binary Trees page
+13:11:00.154 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:11:00.896 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:11:02.193 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:11:02.424 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:11:02.606 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+13:11:03.018 [TestNG-PoolService-2] INFO  - User was able to see Tree page
+13:11:03.117 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:11:03.121 [TestNG-PoolService-2] INFO  - Home Page title are Tree and Tree
+13:11:03.519 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:11:03.652 [TestNG-PoolService-2] INFO  - User was able to see Types of Binary Trees page
+13:11:04.647 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:11:05.041 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:11:05.687 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:11:06.076 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+13:11:06.147 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:11:06.538 [TestNG-PoolService-1] INFO  - User was able to see Tree page
+13:11:06.649 [TestNG-PoolService-1] INFO  - Home Page title are Tree and Tree
+13:11:06.900 [TestNG-PoolService-1] INFO  - User was able to see Implementation in Python page
+13:11:07.707 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:11:07.758 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:11:08.598 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+13:11:08.936 [TestNG-PoolService-3] INFO  - User was able to see Tree page
+13:11:09.024 [TestNG-PoolService-3] INFO  - Home Page title are Tree and Tree
+13:11:09.253 [TestNG-PoolService-3] INFO  - User was able to see Binary Tree Traversals page
+13:11:10.256 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+13:11:10.256 [TestNG-PoolService-5] INFO  - User was able to see NumpyNinja page
+13:11:10.358 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:11:10.395 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:11:10.398 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:11:10.934 [TestNG-PoolService-5] INFO  - User was able to see Tree page
+13:11:10.938 [TestNG-PoolService-4] INFO  - User was able to see Tree page
+13:11:11.143 [TestNG-PoolService-4] INFO  - Home Page title are Tree and Tree
+13:11:11.144 [TestNG-PoolService-5] INFO  - Home Page title are Tree and Tree
+13:11:11.583 [TestNG-PoolService-5] INFO  - User was able to see Applications of Binary trees page
+13:11:11.591 [TestNG-PoolService-4] INFO  - User was able to see Implementation of Binary Trees page
+13:11:12.918 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:11:12.943 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:11:12.998 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:11:13.007 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:11:14.014 [TestNG-PoolService-2] INFO  - User was able to see NumpyNinja page
+13:11:14.422 [TestNG-PoolService-2] INFO  - User was able to see Tree page
+13:11:14.538 [TestNG-PoolService-2] INFO  - Home Page title are Tree and Tree
+13:11:15.252 [TestNG-PoolService-2] INFO  - User was able to see Binary Search Trees page
+13:11:15.558 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:11:15.608 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:11:15.608 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:11:16.118 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:11:16.568 [TestNG-PoolService-1] INFO  - User was able to see NumpyNinja page
+13:11:17.038 [TestNG-PoolService-1] INFO  - User was able to see Tree page
+13:11:17.258 [TestNG-PoolService-1] INFO  - Home Page title are Tree and Tree
+13:11:17.567 [TestNG-PoolService-1] INFO  - User was able to see Implementation Of BST page
+13:11:18.204 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:11:18.210 [TestNG-PoolService-5] INFO  - User was able to see Assessment page
+13:11:18.859 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:11:18.859 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:11:19.199 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+13:11:19.602 [TestNG-PoolService-3] INFO  - User was able to see Graph page
+13:11:19.786 [TestNG-PoolService-3] INFO  - Home Page title are Graph and Graph
+13:11:20.038 [TestNG-PoolService-3] INFO  - User was able to see Graph page
+13:11:20.987 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:11:21.451 [TestNG-PoolService-2] INFO  - User was able to see Assessment page
+13:11:21.507 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:11:22.050 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page
+13:11:22.392 [TestNG-PoolService-4] INFO  - User was able to see Graph page
+13:11:22.506 [TestNG-PoolService-4] INFO  - Home Page title are Graph and Graph
+13:11:23.051 [TestNG-PoolService-4] INFO  - User was able to see Graph Representations page
+13:11:23.465 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:11:24.054 [TestNG-PoolService-1] INFO  - User was able to see Assessment page
+13:11:24.583 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:11:25.918 [TestNG-PoolService-3] INFO  - User was able to see Assessment page
+13:11:26.681 [TestNG-PoolService-3] INFO  - User was able to see NumpyNinja page
+13:11:27.084 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:11:29.588 [TestNG-PoolService-4] INFO  - User was able to see Assessment page
+13:11:30.327 [TestNG-PoolService-4] INFO  - User was able to see NumpyNinja page

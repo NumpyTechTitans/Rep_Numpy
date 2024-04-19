@@ -135,7 +135,7 @@
 					<properties>
 						<property>
 							<name>dataproviderthreadcount</name>
-							<value>6</value>
+							<value>5</value>
 						</property>
 					</properties>
 					<systemPropertyVariables>

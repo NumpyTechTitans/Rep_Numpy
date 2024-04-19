@@ -13,7 +13,7 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
         glue = { "parallel"},
         monochrome = true,
         plugin = {"pretty",
-        		"html:target/report.html",
+        		"html:target/report.html", "json:target/report.json",  "junit:target/report.xml",
         		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
         		"timeline:test-output-thread/",
         		"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"})
