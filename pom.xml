@@ -109,6 +109,14 @@
 			<artifactId>allure-testng</artifactId>
 			<version>2.27.0</version>
 		</dependency>
+		<!--
+		https://mvnrepository.com/artifact/io.qameta.allure/allure-plugin-api -->
+		<dependency>
+			<groupId>io.qameta.allure</groupId>
+			<artifactId>allure-plugin-api</artifactId>
+			<version>2.28.0</version>
+		</dependency>
+
 
 	</dependencies>
 
@@ -139,7 +147,7 @@
 						</property>
 					</properties>
 					<systemPropertyVariables>
-						<browser>edge</browser>
+						<browser>chrome</browser>
 					</systemPropertyVariables>
 				</configuration>
 			</plugin>
